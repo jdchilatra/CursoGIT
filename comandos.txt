@@ -9,3 +9,6 @@ muestra el estado de los archivos
 
 git add <files>:
 agrega archivos al staging agrega
+
+git commit -m "Mensje":
+realiza commit con mensaje

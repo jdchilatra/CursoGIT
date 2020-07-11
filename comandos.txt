@@ -1,6 +1,8 @@
 git init : 
 Inicializa el repositorio
 
+git checkout --file:
+descarta los cambios del archivo seleccionado
 
 git status:
 muestra el estado de los archivos

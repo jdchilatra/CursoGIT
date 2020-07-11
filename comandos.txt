@@ -1,0 +1,9 @@
+git init : 
+Inicializa el repositorio
+
+
+git status:
+muestra el estado de los archivos
+
+git add <files>:
+agrega archivos al staging agrega

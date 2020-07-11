@@ -12,3 +12,6 @@ agrega archivos al staging agrega
 
 git commit -m "Mensje":
 realiza commit con mensaje
+
+git add .  :
+agrega todos los archivos que tienen cambios
